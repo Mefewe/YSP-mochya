@@ -1,0 +1,139 @@
+19:48:38.841 | DEBUG | Ini file not found
+19:48:48.396 | DEBUG | Checking path for d3d9.dll
+19:48:48.396 | DEBUG | Checking path for SweetFX_settings.txt
+19:48:48.396 | DEBUG | Checking path for injector.ini
+19:48:48.416 | INFO | Processing config file C:\Games\YkislGEXP\SweetFX_settings.txt
+19:48:48.547 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.548 | DEBUG | Could not decode :   /                       Description                           /
+19:48:48.548 | DEBUG | Could not decode :   '------------------------------------------------------------/
+19:48:48.596 | DEBUG | Could not decode : 
+19:48:48.596 | DEBUG | Could not decode : Game:
+19:48:48.596 | DEBUG | Could not decode : Author:
+19:48:48.596 | DEBUG | Could not decode : SweetFX version: 1.5.1
+19:48:48.596 | DEBUG | Could not decode : Description:
+19:48:48.596 | DEBUG | Could not decode : 
+19:48:48.596 | DEBUG | Could not decode : Please note when tweaking settings that higher numbers does not always equal better (nor does lower).
+19:48:48.596 | DEBUG | Could not decode : Finding the best settings for your game and your taste is about finding just the right amount to apply.
+19:48:48.596 | DEBUG | Could not decode : 
+19:48:48.596 | DEBUG | Could not decode : If you made a good setttings preset please share it with your friends, on forums and websites,
+19:48:48.596 | DEBUG | Could not decode : and/or submit it to the SweetFX Settings Database : http://sfx.thelazy.net/games/
+19:48:48.596 | DEBUG | Could not decode : 
+19:48:48.596 | DEBUG | Could not decode : This description field and the above Game and Author fields are here so you can fill in your own details for the presets you create.
+19:48:48.596 | DEBUG | Could not decode : Just delete this description and fill in your own and then share it with the world.
+19:48:48.596 | DEBUG | Could not decode : 
+19:48:48.596 | DEBUG | Could not decode : Hope you enjoy my mod.
+19:48:48.596 | DEBUG | Could not decode :  - CeeJay.dk
+19:48:48.596 | DEBUG | Could not decode : 
+19:48:48.596 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.597 | DEBUG | Could not decode :   /                      Choose effects                         /
+19:48:48.597 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.597 | DEBUG | Could not decode : 
+19:48:48.597 | DEBUG | Could not decode : // Set to 1 for ON or 0 for OFF
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :                                          //Enable this only if you use a Geforce 7xxx series or older card, or a Radeon X1xxx series or older card.
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : // -- Sharpening --
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :                          //I designed the pattern for offset_bias 1.0, but feel free to experiment.
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode :    /*----------------------------------------------------------.
+19:48:48.598 | DEBUG | Could not decode :   '----------------------------------------------------------*/
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : 
+19:48:48.598 | DEBUG | Could not decode : //Colors between the two points will stretched, which increases contrast, but details above and below the points are lost (this is called clipping).
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : //Note that a value of 1.000 is a neutral setting that leave the color unchanged.
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :                              //1 = Sine, 2 = Abs split, 3 = Smoothstep, 4 = Exp formula, 5 = Simplified Catmull-Rom (0,0,1,1), 6 = Perlins Smootherstep
+19:48:48.599 | DEBUG | Could not decode :                              //7 = Abs add, 8 = Techicolor Cinestyle, 9 = Parabola, 10 = Half-circles.
+19:48:48.599 | DEBUG | Could not decode :                              //Note that Technicolor Cinestyle is practically identical to Sine, but runs slower. In fact I think the difference might only be due to rounding errors.
+19:48:48.599 | DEBUG | Could not decode :                              //I prefer 2 myself, but 3 is a nice alternative with a little more effect (but harsher on the highlight and shadows) and it's the fastest formula.
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : //Note that the patterns used by Dither, makes an image harder to compress.
+19:48:48.599 | DEBUG | Could not decode : //This can make your screenshots and video recordings take up more space.
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
+19:48:48.599 | DEBUG | Could not decode : 
+19:48:48.599 | DEBUG | Could not decode :    /*-----------------------------------------------------------.
+19:48:48.599 | DEBUG | Could not decode :   '-----------------------------------------------------------*/
